@@ -1,0 +1,5 @@
+insert a 0 0 4 3
+insert b 6 5 2 4
+insert c 0 17 2 3
+
+intersections

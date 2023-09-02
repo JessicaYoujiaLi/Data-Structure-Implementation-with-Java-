@@ -1,0 +1,8 @@
+insert r1 0 0 6 6
+insert r2 5 0 5 3
+insert r3 1000 4 20 300
+
+regionsearch 2 2 4 2
+regionsearch -3 2 12 5
+regionsearch 1021 8 30 21
+regionsearch 0 27 4 6

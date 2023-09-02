@@ -1,0 +1,23 @@
+insert rect1 0 0 1 1
+	insert rect1   1 1 1    1
+	 search     rect1   
+	   remove 1 1    1 1
+	   	 search     rect1   
+	remove 0 0 1    1
+
+  remove 1 1    1 1
+    remove rect1
+ search     rect1   
+ 	insert rect1   1 1 1    1
+ 		insert rect1   3   3 3 3
+ 		 		insert rect0   5 5 5   5
+ 			insert rect1   2 2 2     2
+ 		insert rect1    1 1    1 1
+ 			 			
+ 			 			 			insert rect1   4 4    4 4
+ 			 			 			dump 
+   remove 1 1    1 1
+
+
+remove rect1
+dump

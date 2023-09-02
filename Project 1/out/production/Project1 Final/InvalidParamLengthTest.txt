@@ -1,0 +1,11 @@
+insert rec1 1 2 3 4 5 
+remove rec1 1
+remove 1 2 3 4 5
+serach 
+search rec1 1
+regionsearch 1 2 3 4 5
+regionsearch
+inserts
+remuve rec1 1 2 3 4
+searrch rec1
+regionsearchh 1 2 3 4

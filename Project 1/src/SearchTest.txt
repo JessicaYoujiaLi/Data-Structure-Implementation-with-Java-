@@ -1,0 +1,26 @@
+insert rand27 30 30 110 50
+insert val8 1 150 149 60
+insert rect8 41 46 4 7
+insert rand45 50 180 100 70
+insert rect1 24 5 2 4
+insert val2 220 100 50 20
+insert r3 180 110  140 90
+insert rand42 411 422 177 301
+insert rand37 150 250 130 60
+insert r3 683 374 63 19
+insert rand48 40 40 120 60
+insert r3 1 5 26 3
+insert rand39 321 475 462 273
+insert rand80 696 449 321 257
+insert virtualrec1 400 650 1 1 
+insert val9 22 27 4 1
+insert XYZ 523 543 23 200
+insert xyz 350 123 8 3
+insert rand 51 545 32 22
+insert rect9 7 61 32 54
+insert rect9 74 4 16 42
+insert xyz 232 520 294 524
+
+search r3
+search r4
+search r5

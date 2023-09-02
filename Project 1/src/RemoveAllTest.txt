@@ -1,0 +1,9 @@
+insert a 1 2 3 4
+insert b 4 8 216 2
+insert c 44 6 1 36
+
+remove a
+remove b
+remove c
+
+dump
